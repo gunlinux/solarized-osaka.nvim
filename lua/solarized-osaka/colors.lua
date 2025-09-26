@@ -8,14 +8,12 @@ local M = {}
 M.default = {
   none = "NONE",
 
-  base04 = hsl(192, 100, 5),
-  base03 = hsl(192, 100, 11),
-  base02 = hsl(192, 81, 14),
-  base01 = hsl(194, 14, 40),
-  base00 = hsl(196, 13, 45),
-  -- base0 = hsl( 186, 8, 55 ),
-  base0 = hsl(186, 8, 65),
-  -- base1 = hsl( 180, 7, 60 ),
+  base04 = hsl(240, 17, 12),
+  base03 = hsl(240, 17, 12),
+  base02 = hsl(240, 30, 11),
+  base01 = hsl(240, 30, 11),
+  base00 = hsl(240, 30, 11),
+  base0 = hsl(240, 17, 12),
   base1 = hsl(180, 7, 70),
   base2 = hsl(46, 42, 88),
   base3 = hsl(44, 87, 94),
@@ -69,8 +67,8 @@ M.default = {
   green700 = hsl(68, 100, 20),
   green900 = hsl(68, 100, 10),
 
-  bg = hsl(192, 100, 5),
-  bg_highlight = hsl(192, 100, 11),
+  bg = hsl(240, 17, 12),
+  bg_highlight = hsl(240, 17, 12),
   fg = hsl(186, 8, 55),
 }
 
