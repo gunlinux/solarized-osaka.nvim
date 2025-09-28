@@ -10,8 +10,8 @@ M.default = {
 
   base04 = hsl(240, 12, 17),
   base03 = hsl(259, 24, 13),
-  base02 = hsl(240, 12, 17),
-  base01 = hsl(194, 14, 40),
+  base02 = hsl(200, 14, 40),
+  base01 = hsl(200, 14, 40),
   base00 = hsl(196, 13, 45),
   -- base0 = hsl( 186, 8, 55 ),
   base0 = hsl(186, 8, 65),
